@@ -5,3 +5,8 @@ $accent3: #2c67b1;
 $text: #3c3c3c;
 $text2: #7f7f7f;
 
+@mixin bg {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
